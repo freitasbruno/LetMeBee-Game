@@ -1,0 +1,5 @@
+{
+  "name": "Let Me Bee",
+  "description": "A 2D strategy simulation game on a hexagonal grid. Command the Honey Bees to build and gather, or the Wasps to raid and destroy. Features an AI Demo mode.",
+  "requestFramePermissions": []
+}
